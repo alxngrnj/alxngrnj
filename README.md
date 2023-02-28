@@ -19,7 +19,7 @@
 ### Glad to see you here!  
 My name is Alexon Granja and I’m a full-stack developer with a skill set focused on front-end development!
 
-I have recently changed careers and 'm finding my way in the world of tech, hopefully we can do that together :) 
+I have recently changed careers and I'm finding my way in the world of tech, hopefully we can do that together :) 
 
 I love designing efficient, clean code and I'm always open to constructive input!
   
