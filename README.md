@@ -82,4 +82,4 @@ I love designing efficient, clean code and I'm always open to constructive input
 <br />
 
 ----
-<div align="center">Generated using<a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> with a few personal tweaks</div>
