@@ -67,10 +67,10 @@ I love designing efficient, clean code and I'm always open to constructive input
 
 ## Github Stats  
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=alxngrnj&show_icons=true&count_private=true&hide_border=true"  style="width: 49%" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alxngrnj&show_icons=true&count_private=true&hide_border=true&theme=transparent"   />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxngrnj&hide_border=true&layout=compact"  style="width: 49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxngrnj&hide_border=true&layout=compact&theme=transparent"  align="top"/>
 </div>
 
 <br/>  
