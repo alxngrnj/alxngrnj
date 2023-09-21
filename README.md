@@ -29,10 +29,10 @@ I love designing efficient, clean code and I'm always open to constructive input
 
 <table><tr><td valign="top">
 
-- 🔭 I’m currently studying on [Cubos Academy](https://github.com/cubos-academy)  
+- 🔭 I have finished the [Cubos Academy](https://github.com/cubos-academy) Full Stack Software Development Bootcamp 
   
 
-- 🌱 I’m currently learning API handling and responsive design  
+- 🌱 I’m currently learning Next.js and honing my TypeScript comprehension
   
 
 - ⚡ Fun fact: I used to be a tattoo artist and a concept art student as well  
