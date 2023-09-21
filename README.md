@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-My name is Alexon Granja and I’m a full-stack developer with a skill set focused on front-end development!
+My name is Alexon Granja and I’m a full-stack developer with a skill set focused on front-end development but perfectly capable of acting on full stack capacity!
 
 I have recently changed careers and I'm finding my way in the world of tech, hopefully we can do that together :) 
 
